@@ -1,7 +1,7 @@
 # Laboratorio de criação de conteudo baseado em IA Generativa
 
 ## 📒 Descrição
-Olá pessoal, estou fazendo um curso na DIO, sobre IAs e esse é o meu primeiro trabalho.
+Olá pessoal, estou fazendo um curso sobre Inteligencia Artificial na DIO, e esse é o meu primeiro trabalho.
 
 ## 🤖 Tecnologias Utilizadas
 Usei as IAs basicas do Google, Microsoft e Open AI, fazendo as mesmas perguntas para verificar as diferenças de estilos e resultados.
