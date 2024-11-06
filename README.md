@@ -7,10 +7,13 @@ Olá pessoal, estou fazendo um curso sobre Inteligencia Artificial na DIO, e ess
 Usei as IAs basicas do Google, Microsoft e Open AI, fazendo as mesmas perguntas para verificar as diferenças de estilos e resultados.
 
 ## 🧐 Processo de Criação
-O conteudo foi criado a partir de uma pergunta basica, sobre a doutrina espirita, e uma segunda pergunta, complexa, que correlacionava a informação com a situação atual do planeta.
+O conteudo foi criado a partir de diversas solicitações:
 
-A pergunta basica foi " O que é o espiritismo ?" 
-A pergunta complexa foi "O que falta para a humanidade e o planeta terra, para que consigamos seguir ao espiritismo ?"
+1. Uma pergunta basica, sobre a doutrina espirita. " O que é o espiritismo ?" 
+2. Uma pergunta complexa, que correlacionava a informação com a situação atual do planeta. "O que falta para a humanidade e o planeta terra, para que consigamos seguir ao espiritismo ?"
+3. Criação de uma imagem que resumisse a primeira pergunta.
+
+
 
 ## 🚀 Resultados
 
@@ -62,6 +65,10 @@ Uma transformação social: Construir uma sociedade mais justa, igualitária e f
 Uma transformação planetária: Preservar o meio ambiente e promover a paz.
 É importante ressaltar que a evolução espiritual é um processo gradual e contínuo. Não há uma fórmula mágica para que a humanidade siga os princípios espíritas, mas sim um caminho a ser percorrido por cada um de nós.
 
+#### 3. Claro, aqui está um desenho que resume o que é o espiritismo:
+![image](https://github.com/user-attachments/assets/2a0562c6-e4f0-448c-b7ec-e2579664eaa7)
+
+
 ### ChatGPT
 
 #### 1. O que é o espiritismo ?
@@ -106,6 +113,9 @@ Educação moral e espiritual: Um dos maiores obstáculos para a prática de val
 Amor e caridade: O Espiritismo ensina que o amor é o caminho para a verdadeira felicidade e que a caridade é o seu maior exercício. Esse amor inclui o perdão, a compreensão e a ajuda desinteressada. Em um mundo onde o egoísmo e a intolerância ainda são muito presentes, o cultivo do amor ao próximo e a prática da caridade são transformadores.
 
 O Espiritismo não impõe suas crenças, mas convida à reflexão e ao autoconhecimento. O avanço que se espera, segundo a doutrina, é que cada pessoa busque sua evolução e o entendimento sobre a própria responsabilidade no mundo. O progresso espiritual é gradual e individual, mas, ao alcançarmos um número maior de indivíduos conscientes, a sociedade como um todo pode mudar e evoluir para um futuro mais harmonioso e espiritualizado.
+
+#### 3. Aqui está uma ilustração que representa os princípios do Espiritismo, mostrando elementos de fraternidade, luz divina, harmonia com a natureza e continuidade da vida espiritual.
+![image](https://github.com/user-attachments/assets/73898349-534a-4201-b9db-0a83c6a40e1c)
 
 
 
@@ -162,6 +172,8 @@ Maior Abertura para a Mediunidade: A mediunidade é um aspecto importante do Esp
 
 Transformar esses princípios em realidade exige esforço individual e coletivo, bem como mudanças culturais e sociais profundas. É uma jornada contínua de evolução espiritual.
 
+#### 3. Aqui está um desenho que resuma os principais conceitos do Espiritismo:
+![image](https://github.com/user-attachments/assets/84003dd5-e50b-4638-b0a7-7690efc367e6)
 
 
 ## 💭 Reflexão (Opcional)
