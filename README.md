@@ -1,13 +1,20 @@
 # Laboratorio de criação de conteudo baseado em IA Generativa
 
 ## 📒 Descrição
-Olá pessoal, estou fazendo um curso sobre Inteligencia Artificial na DIO, e esse é o meu primeiro trabalho.
+Olá pessoal, estou fazendo um curso sobre Inteligencia Artificial na DIO, e esse é o meu primeiro trabalho. O desafio era criar um resultado onde fosse dificil distinguir se o conteudo foi gerado por uma pessoa ou por uma IA.
 
 ## 🤖 Tecnologias Utilizadas
-Usei as IAs basicas do Google, Microsoft e Open AI, fazendo as mesmas perguntas para verificar as diferenças de estilos e resultados.
+
+Inicialmente usei as IAs basicas do Google, Microsoft e Open AI, e depois dei continuidade usando apenas uma, que tinha o estilo mais adequado ao resultado imaginado.
 
 ## 🧐 Processo de Criação
+
+1.  Definir o escopo
+2.
+
+
 O conteudo foi criado a partir de diversas solicitações:
+
 
 1. Uma pergunta basica, sobre a doutrina espirita. " O que é o espiritismo ?" 
 2. Uma pergunta complexa, que correlacionava a informação com a situação atual do planeta. "O que falta para a humanidade e o planeta terra, para que consigamos seguir ao espiritismo ?"
