@@ -5,9 +5,9 @@ Esse Podcast simula uma sessão de Stand Up Comedy, craido por IAs.
 
 ## 🤖 Tecnologias Utilizadas
 
-. IA Generativa ChatGPT para composição do roteiro
-.
-.
+. IA Generativa **[ChatGPT](https://chat.openai.com)** para composição do roteiro
+. 
+s.
 
 
 ## 🧐 Processo de Criação
