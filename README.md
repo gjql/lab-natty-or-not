@@ -1,11 +1,14 @@
-# Laboratorio de criação de conteudo baseado em IA Generativa
+# Podcast: Stand up Comedy baseado em IA Generativa 🎙️
 
 ## 📒 Descrição
-Olá pessoal, estou fazendo um curso sobre Inteligencia Artificial na DIO, e esse é o meu primeiro trabalho. O desafio era criar um resultado onde fosse dificil distinguir se o conteudo foi gerado por uma pessoa ou por uma IA.
+Esse Podcast simula uma sessão de Stand Up Comedy, craido por IAs. 
 
 ## 🤖 Tecnologias Utilizadas
 
-Inicialmente usei as IAs basicas do Google, Microsoft e Open AI, e depois dei continuidade usando apenas uma, que tinha o estilo mais adequado ao resultado imaginado.
+. IA Generativa ChatGPT para composição do roteiro
+.
+.
+
 
 ## 🧐 Processo de Criação
 
